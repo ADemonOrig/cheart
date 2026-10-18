@@ -1,2 +1,2 @@
 # cheart
-heart C
+heart C++
